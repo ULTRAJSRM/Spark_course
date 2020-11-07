@@ -52,7 +52,11 @@
 - Tungsten is a memory and CPU optimizer.
 - Converts Catalyst logical plans into physical plans.
 
-  
+## Spark UDF
+- UDF (User Defined Functions) are functions defined by users for specific porpuses.
+- These functions can be used in data frames with a native spark sintaxis and they are really important in big projects to structure the work flow.
+- They can be used by all team members to unify the way the structured the data.
+- UDF are specially useful for MLlib (Machine Learning Library in Spark).
   
 
 
